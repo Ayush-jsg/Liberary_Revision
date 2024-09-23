@@ -7,7 +7,7 @@ public class Demo4 {
 	public static void main(String[] args) {
 
 		int a[] = { 30, 52, 99, 67, 84, 21, 13, 75 };
-
+  
 		int temp;
 
 		for (int i = 0; i < a.length; i++) {

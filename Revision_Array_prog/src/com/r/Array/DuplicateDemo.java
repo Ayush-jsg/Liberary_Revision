@@ -14,7 +14,7 @@ public class DuplicateDemo {
 					System.out.println(a[i]);
 
 				}
-
+ 
 			}
 
 		}
